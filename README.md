@@ -32,5 +32,5 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias 
 Integrantes do Grupo
 
 Nome: Beatriz de Araujo Périgo - RM 569654
-Nome: - RM
-Nome: - RM
+Nome: Fabricio Denig de Avila - RM 570980
+Nome: Luan Schinello Garbin - RM 571276
